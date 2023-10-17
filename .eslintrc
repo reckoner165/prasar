@@ -35,12 +35,11 @@
     "prettier/prettier": [
       "error",
       {
-        "endOfLine": "crlf"
+        "endOfLine": "LF"
       }
     ],
     "no-irregular-whitespace": "off",
     "indent": ["error", 2, { "SwitchCase": 1 }],
-    "linebreak-style": ["error", "windows"],
     "semi": ["error", "always"],
     "eol-last": ["error", "always"],
     "quotes": ["error", "single"],

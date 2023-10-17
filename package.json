@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/reckoner165/prasar#readme",
   "dependencies": {
-    "hls.js": "^0.14.17"
+    "hls.js": "^1.4.12"
   },
   "peerDependencies": {
     "react": "^16.13.1",
