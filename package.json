@@ -1,6 +1,6 @@
 {
   "name": "react-hls-player",
-  "version": "3.0.7",
+  "version": "0.1.0",
   "description": "A simple and easy to use react component for playing an hls live stream",
   "main": "./dist/index.js",
   "types": "./dist",
@@ -13,20 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devcshort/react-hls.git"
+    "url": "git+https://github.com/reckoner165/prasar.git"
   },
   "keywords": [
     "hls",
     "rtmp",
     "react",
-    "component"
+    "component",
+    "video",
+    "streaming"
   ],
-  "author": "Christopher Short",
+  "author": "Sumanth Srinivasan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devcshort/react-hls/issues"
+    "url": "https://github.com/reckoner165/prasar/issues"
   },
-  "homepage": "https://github.com/devcshort/react-hls#README",
+  "homepage": "https://github.com/reckoner165/prasar#readme",
   "dependencies": {
     "hls.js": "^0.14.17"
   },
